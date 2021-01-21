@@ -9,13 +9,13 @@ function preload() {
 
     gimg = loadImage("images/garden.png");
 
-    jerryimg = loadAnimation("images/jerryTwo.png");
-    jerryimg2 = loadAnimation("images/jerryThree.png");
-    jerryimg3 = loadAnimation("images/jerryFour.png");
+    jerryimg = loadAnimation("jerryTwo.png");
+    jerryimg2 = loadAnimation("jerryThree.png");
+    jerryimg3 = loadAnimation("jerryFour.png");
 
-    tomimg = loadAnimation("images/tomOne.png");
-    tomimg2 = loadAnimation("images/tomTwo.png");
-    tomimg3 = loadAnimation("images/tomFour.png");
+    tomimg = loadAnimation("tomOne.png");
+    tomimg2 = loadAnimation("tomTwo.png");
+    tomimg3 = loadAnimation("tomFour.png");
 
 }
 
